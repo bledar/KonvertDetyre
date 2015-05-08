@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KonvertDetyr</string>
+    <string name="autoriMenu">Autori</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="kotomilje">Km -&gt; Milje</string>
+    <string name="but_konverto">KONVERTO</string>
+    <string name="rezultati"/>
+    <string name="CF">Celsius -&gt; Fahrenheit</string>
+    <string name="menu">MENU</string>
+    <string name="KgPound">Kg -&gt; Pound</string>
+    <string name="MeterToFoot">Meter -&gt; Foot</string>
+    <string name="InchToCentimetra">Inch -&gt; Centimetra</string>
+    <string name="InchToFoot">Inch -&gt; Foot</string>
+    <string name="kgtop">Kg -&gt; Pound</string>
+    <string name="inchtocm">Inch -&gt; Cm</string>
+    <string name="metertofoot">Meter -&gt; Foot</string>
+    <string name="inchtofoot">Inch -&gt; Foot</string>
+    <string name="autori">©Bledar Haxhia</string>
+    <string name="Autori_emri">Emri:    BLEDAR</string>
+    <string name="Autori_mbiemri"> Mbiemri:  HAXHIA</string>
+    <string name="Autori_shkolla">Shkolla: INFORMATIKE SHKODER</string>
+    <string name="Autori_email">Email:    bledi-1@live.com</string>
+    <string name="Autori_viti">Data:    Dhjetor 2013</string>
+    <string name="Autori_tjera">fotoja autorit</string>
+
+</resources>
